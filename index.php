@@ -1,7 +1,7 @@
 <?php
-$msisdn = $_GET['msisdn'];
-$sequence_ID = $_GET['sequenceID'];
-$data = $_GET['data'];
+$msisdn = $_POST['msisdn'];
+$sequence_ID = $_POST['sequenceID'];
+$data = $_POST['data'];
 $type = 1;
 
 
