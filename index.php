@@ -2,7 +2,7 @@
 $msisdn = $_POST['msisdn'];
 $sequence_ID = $_POST['sequenceID'];
 $data = $_POST['data'];
-$type = 1;
+$type = 2;
 
 
 $mereply = "Hello Akwasi Asante-Krobea";
