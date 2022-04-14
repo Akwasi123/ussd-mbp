@@ -11,5 +11,5 @@ $mereply . '|' . $msisdn . '|' . $sequence_id . '|' . $type;
 
 
 if ($data == 1) {
-    echo "You selected a movie";
+    $mereply = "You selected a movie";
 }
