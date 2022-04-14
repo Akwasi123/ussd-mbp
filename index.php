@@ -10,6 +10,6 @@ echo
 $mereply . '|' . $msisdn . '|' . $sequence_id . '|' . $type;
 
 
-if ($data == '1') {
+if ($data == 1) {
     echo "You selected a movie";
 }
