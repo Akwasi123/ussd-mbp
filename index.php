@@ -12,4 +12,6 @@ $mereply . '|' . $msisdn . '|' . $sequence_id . '|' . $type;
 
 if ($data == 1) {
     $mereply = "You selected a movie";
+} elseif ($data == 2) {
+    $mereply = "Thank you for using cleanX";
 }
