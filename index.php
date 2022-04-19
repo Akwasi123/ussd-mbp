@@ -13,8 +13,8 @@ $mereply = "Welcome To Ashesi Mobile App 2022\n
 
 echo $mereply . '|' . $msisdn . '|' . $sequence_id . '|' . $type;
 
-$c_level = 1;
+// $c_level = 1;
 
-// insert into db
-insert_user_ctlr($msisdn, $sequence_ID, $c_level);
+// // insert into db
+// insert_user_ctlr($msisdn, $sequence_ID, $c_level);
 
